@@ -1,0 +1,1 @@
+As a parent, I want to use the APP to know the sentiment of mu child. I'd like choose the account and tap the button to get the data and the APP can analyze it automatically to give me the feedback presented in the text.
