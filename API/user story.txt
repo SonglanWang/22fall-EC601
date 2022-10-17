@@ -1,0 +1,1 @@
+As a fan of lebron James, I want to know people's sentiment to Lebron James. I can use the library to get tweets and analyze the sentiments automatically.
